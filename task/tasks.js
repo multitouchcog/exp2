@@ -156,7 +156,7 @@ var task4_4 = new Task("one-touch (inside) in 135 degree", [trajectory4_4]);
 
 
 
-exp1-D = [
+exp1 = [
   task1_4, task1_2, task1_6, task1_8, task1_2, task1_6, task1_8, task1_4, task1_6, task1_8, task1_4, task1_2
 ]
 
@@ -188,4 +188,4 @@ exp8 = [
   task4_1, task4_2, task4_3, task4_4
 ]
 
-exp_sets = [exp1-D, exp2, exp3, exp4, exp5, exp6, exp7, exp8];
+exp_sets = [exp1, exp2, exp3, exp4, exp5, exp6, exp7, exp8];
