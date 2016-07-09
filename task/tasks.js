@@ -172,4 +172,4 @@ exp4 = [
   task4_1, task4_2, task4_3, task4_4
 ]
 
-exp_sets = [exp1, exp2, exp3];
+exp_sets = [exp1, exp2, exp3, exp4, exp5, exp6, exp7, exp8];
