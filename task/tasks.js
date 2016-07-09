@@ -173,19 +173,19 @@ exp4 = [
 ]
 
 exp5 = [
-  task4_1, task4_2, task4_3, task4_4
+  task2_1, task2_3, task2_2, task2_4, task2_3, task2_2, task2_4, task2_1, task2_2, task2_4, task2_1, task2_3
 ]
 
 exp6 = [
-  task4_1, task4_2, task4_3, task4_4
+  task3_3, task3_1, task3_4, task3_2, task3_1, task3_4, task3_2, task3_3, task3_4, task3_2, task3_3, task3_1
 ]
 
 exp7 = [
-  task4_1, task4_2, task4_3, task4_4
+  task2_3, task2_1, task2_4, task2_2, task2_1, task2_4, task2_2, task2_3, task2_4, task2_2, task2_3, task2_1
 ]
 
 exp8 = [
-  task4_1, task4_2, task4_3, task4_4
+  task3_1, task3_3, task3_2, task3_4, task3_3, task3_2, task3_4, task3_1, task3_2, task3_4, task3_1, task3_3
 ]
 
 exp_sets = [exp1, exp2, exp3, exp4, exp5, exp6, exp7, exp8];
